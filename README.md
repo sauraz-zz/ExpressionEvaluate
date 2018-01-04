@@ -2,4 +2,4 @@
 
 Its a Expression Evaluator app .
 
-It uses Djikstra's Expression Evaluator algorithm.
+It uses Shunting Yard Algorithm by Dijkstra.
